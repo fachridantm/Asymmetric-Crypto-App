@@ -1,8 +1,8 @@
-# Smart Villager
+# Asymmetric Crypto App
 Repository for Implementation of Asymmetric Encryption using Java GUI
 
 ## Purpose
-Record Project from Kemanan Teknologi Informasi
+Record Project from Keamanan Teknologi Informasi
 
 <!-- ## Screenshots
 <img src="https://raw.githubusercontent.com/fachridantm/Smart-Villager/master/screenshots/Welcome.png"
