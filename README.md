@@ -29,4 +29,4 @@ Download [here](https://github.com/fachridantm/AsymmetricApp/releases/download/1
 **Notes** : **Make sure you have JRE to run .jar file!**
 
 ## Author
-* #### Fachridan Tio Mu'afa (Developer)
+* #### Fachridan Tio Mu'afa
