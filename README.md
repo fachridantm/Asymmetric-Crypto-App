@@ -1,8 +1,8 @@
 # Asymmetric Crypto App
-Repository for Implementation of Asymmetric Encryption using Java GUI
+Repository for Desktop Application for Implementation of Asymmetric Encryption using Java GUI 
 
 ## Purpose
-Record Project from Keamanan Teknologi Informasi
+Record Project from Assignment of Information Technology Security course
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/fachridantm/AsymmetricApp/master/screenshots/Screenshot%202021-10-12%20120717.png"
